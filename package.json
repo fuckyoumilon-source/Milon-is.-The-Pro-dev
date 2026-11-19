@@ -1,0 +1,15 @@
+{
+  "name": "milon-bot",
+  "version": "1.0.0",
+  "description": "MILON BOT - GoatBot Based Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "MILON HASAN",
+  "license": "ISC",
+  "dependencies": {}
+}
